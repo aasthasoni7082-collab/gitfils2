@@ -11,6 +11,7 @@ int x=100;
 		int z=100;
 		int g=789;
         String y="you are corresct";
+		float m=10.3;
 		SpringApplication.run(TestPsaApplication.class, args);
 	}
 
