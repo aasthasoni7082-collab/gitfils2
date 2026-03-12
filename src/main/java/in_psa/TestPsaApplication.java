@@ -9,7 +9,8 @@ int x= 100;
 	public static void main(String[] args) {
 int x=100;
 		int z=100;
-		iny g=789;
+		int g=789;
+        String y="you are corresct";
 		SpringApplication.run(TestPsaApplication.class, args);
 	}
 
